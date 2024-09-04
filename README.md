@@ -8,7 +8,7 @@ This application was developed to provide users with an easy method to access an
 
 *Please note that this project is still under development!*
 
-### Project Insights
+### Project Overview
 We created this project to expand our technical skills and deepen our understanding of software development, while also integrating our shared interest in finance and stocks. 
 
 Throughout the development of this project, we experimented with multiple unfamiliar Python modules in order to determine the best fit for our application’s needs. We ultimately decided to use 'BeautifulSoup', 'requests', and 'Flask', studied their documentation to learn these libraries and effectively utilize them. Additionally, we adhered to standard software development practices, including object-oriented programming principles and utilizing version control for effective collaboration.
