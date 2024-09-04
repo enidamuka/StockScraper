@@ -2,7 +2,7 @@
 
 ### **Welcome!** 
 
-StockScraper is a personal project we co-developed with a peer that pulls real-time stock data directly from Yahoo Finance’s website! The project is written entirely in Python, and it is currently intended to be used through the terminal, but we are working towards implementing a more user-friendly interface with Flask.
+StockScraper is a personal project co-developed with a peer that pulls real-time stock data directly from Yahoo Finance’s website! The project is written entirely in Python, and it is currently intended to be used through the terminal, but we are working towards implementing a more user-friendly interface with Flask.
 
 This application was developed to provide users with an easy method to access and analyze real time stock information. It only requires the user to input the four letter ticker of the desired stock, and then StockScraper will handle the rest. 
 
